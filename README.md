@@ -36,7 +36,3 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 
----
-
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=joeyw87&show_icons=true&theme=minimal&hide_border=true" height="150" alt="GitHub stats" />
