@@ -1,9 +1,9 @@
-# Hi, I'm YoungWook 👋
-Welcome to YoungWook World 🌍  
+# Hi, I'm YW 👋
+Welcome to YW World 🌍  
 
 ### 🚀 Web Developer (Frontend / Backend) | Java & SQL Specialist
 
-성장하는 개발자 조영욱 입니다.<br>
+성장하는 개발자 YoungWook 입니다.<br>
 단순히 기능을 구현하는 것을 넘어, **“왜 이렇게 설계했는가?”에 스스로 답할 수 있는 코드**를 지향합니다.<br><br>
 기술은 계속 변하지만, <br>
 **문제를 바라보는 기준과 태도는 오래 남는다고 믿습니다.**<br>
